@@ -14,7 +14,9 @@ dependencies:
   quiver: ^3.0.1
   path_provider: ^2.0.1
   tflite_flutter:
-    path: /Users/snmeric/Desktop/Occicor/flutter-tflite
+    git:
+      url: https://github.com/meric-sen/flutter-tflite.git
+      ref: main
   tuple: ^2.0.0
   camera: ^0.10.0
   ffi: ^2.0.1
